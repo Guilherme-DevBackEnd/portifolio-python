@@ -5,3 +5,9 @@ Meu nome é Guilherme Augusto, atualmente tenho 18 anos e estou estudando progra
 
 # Tecnologia 💻
 - Python 🐍
+
+## Como rodar?
+1. Instale Python
+2. Baixe o projeto
+3. Rode no terminal
+(python "nome_do_arquivo.py")
