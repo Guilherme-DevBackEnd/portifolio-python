@@ -1,6 +1,8 @@
+# =========================================================
 # Atividade Atendimento
 # Autor: Guilherme Augusto
 # Versão: 4
+# =========================================================
 
 vez = input("Você está bem? (sim/não): ").strip().lower()
 
