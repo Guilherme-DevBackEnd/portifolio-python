@@ -1,10 +1,11 @@
 # Portifólio - Guilherme Augusto 👋
-Estudo de python, projetos pequenos, atividades e aprendizados.
+Estudo de Python, HTML e CSS, projetos pequenos, atividades e aprendizados.
 
 Meu nome é Guilherme Augusto, atualmente tenho 18 anos e estou estudando programação em python. Criei e vou continuar criando projetos e vou sempre postar as atualizações aqui!
 
 # Tecnologia 💻
 - Python 🐍
+- HTML 5 e CSS 5
 
 ## Como rodar? ❓
 1. Instale Python
